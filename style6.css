@@ -1,0 +1,38 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.animat{
+ animation-name: changecolor;
+ background-color: red;
+ animation-duration: 4s;
+ animation-delay: 3s;
+ animation-iteration-count: 3;
+ width: 100%;
+ height: 900vh;
+
+}
+
+@keyframes changecolor{
+    0%{background-color: red;}
+    25%{background-color: blue;}
+    75%{background-color: yellow;}
+    100%{background-color: royalblue;}
+   
+}
+
+
+
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 300px;
+    mix-blend-mode: soft-light;
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+
+
+}

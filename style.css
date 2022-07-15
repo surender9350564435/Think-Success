@@ -1,0 +1,98 @@
+.p{
+    width: 100% ;
+    height: 650px ;
+   
+}
+
+.nav-link{
+  position:relative;
+  left: 200px;
+
+    font-weight: bold;
+
+}
+
+.nav-link:hover{
+    color: red;
+    text-decoration: underline;
+}
+.video-slide{
+    opacity:0.2;
+   
+}
+.had{
+    position: relative;
+    top: 0px;
+}
+.animated_image{
+    width: 500px;
+    height: 300px;
+    margin-left: 300px;
+
+}
+.animated_image2{
+    width: 100%;
+    height: 500px;
+   
+
+}
+.check{
+    background-color: red;
+}
+
+.form-control:hover{
+    color: red;
+    text-decoration: underline;
+}
+.menu-service{
+    border-radius: 30%;
+    border-bottom-left-radius:0px ;
+    
+}
+.menu-service2{
+    border-radius: 30%;
+    border-top-left-radius:0px ;
+    border-top-right-radius:0px ;
+    border-bottom-left-radius:0px ;
+}
+.about{
+    border-bottom-right-radius: 30%;
+}
+
+.comp{
+    overflow: hidden;
+}
+/* .comp::before{
+    background: linear-gradient(red, green);
+    animation: animate 10s linear infinite;
+    content: "";
+    position: absolute;
+    width:150px ;
+    height: 200px;
+    left: 500px;
+    top: -100px;
+}
+@keyframes animate{
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(500deg);}
+
+}
+.comp::after{
+    content: '';
+    position: absolute;
+    inset: 5px;
+   
+    border-radius: 18px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
